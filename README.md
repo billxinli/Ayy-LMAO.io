@@ -1,6 +1,11 @@
-# Ayo.js
+# ayy-lmao.io.js
 
 [![Build Status](https://travis-ci.org/ayojs/ayo.svg?style=flat&branch=master)](https://travis-ci.org/ayojs/ayo?branch=master)
+
+[![ayy-lmao.io.js](http://starecat.com/content/wp-content/uploads/mao-lmao-ayy-lmao.jpg)].js
+
+_(Note:ayy-lmao.io.js is forked from [Ayo.js][]. Currently, a lot of the documentation
+still points towards the Node.js repository.)_
 
 _(Note: Ayo.js is forked from [Node.js][]. Currently, a lot of the documentation
 still points towards the Node.js repository.)_
